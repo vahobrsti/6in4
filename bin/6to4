@@ -150,7 +150,7 @@ fi
 TUNNEL_NAME=tun_6in4_$TUNNEL_ID
 
 # Tunnel Mode, must be sit
-TUNNEL_MODE=sit
+TUNNEL_MODE=gre
 
 # Tunnel TTL
 TUNNEL_TTL=255
